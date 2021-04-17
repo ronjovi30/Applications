@@ -1,0 +1,13 @@
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\bin\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.exe
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\bin\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.deps.json
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\bin\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.runtimeconfig.json
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\bin\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.runtimeconfig.dev.json
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\bin\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.dll
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\bin\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.pdb
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.csprojAssemblyReference.cache
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.AssemblyInfo.cs
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.dll
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.pdb
+C:\Users\ReubenJay\Desktop\documents\Program\studentViolationRecordManagementSystem\obj\Debug\netcoreapp3.1\studentViolationRecordManagementSystem.genruntimeconfig.cache
